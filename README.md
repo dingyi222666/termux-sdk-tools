@@ -1,6 +1,6 @@
 ## termux-sdk-tools
 
-A android-sdk-tools for termux
+An android-sdk-tools for termux
 
 This repository is based on the [sdk-tools](https://github.com/Lzhiyong/sdk-tools) compiled executable binaries for termux.
 
