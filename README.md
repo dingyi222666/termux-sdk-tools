@@ -1,4 +1,6 @@
-## termux-sdk-tools
+## Deprecated, please try [building your own](https://github.com/Lzhiyong/sdk-tools) or refer [it](https://github.com/RohitVerma882/aapt2)
+
+### termux-sdk-tools
 
 An android-sdk-tools for termux
 
